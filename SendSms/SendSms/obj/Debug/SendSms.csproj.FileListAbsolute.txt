@@ -1,0 +1,8 @@
+c:\users\ali\documents\visual studio 2012\Projects\SendSms\SendSms\bin\Debug\SendSms.exe.config
+c:\users\ali\documents\visual studio 2012\Projects\SendSms\SendSms\obj\Debug\SendSms.Form1.resources
+c:\users\ali\documents\visual studio 2012\Projects\SendSms\SendSms\obj\Debug\SendSms.Properties.Resources.resources
+c:\users\ali\documents\visual studio 2012\Projects\SendSms\SendSms\obj\Debug\SendSms.csproj.GenerateResource.Cache
+c:\users\ali\documents\visual studio 2012\Projects\SendSms\SendSms\bin\Debug\SendSms.exe
+c:\users\ali\documents\visual studio 2012\Projects\SendSms\SendSms\bin\Debug\SendSms.pdb
+c:\users\ali\documents\visual studio 2012\Projects\SendSms\SendSms\obj\Debug\SendSms.exe
+c:\users\ali\documents\visual studio 2012\Projects\SendSms\SendSms\obj\Debug\SendSms.pdb
